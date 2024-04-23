@@ -1,0 +1,27 @@
+body{
+    background-color:hsl(195, 56%, 86%) ;
+}
+header{
+background-color: rgb(65, 148, 166);}
+main{
+background-color: hsl(195, 56%, 86%);
+text-align: center;
+}
+ul{
+    list-style: none;
+}
+ul{
+display:flex;
+flex-direction: row;
+}
+li{
+    margin: 40px;
+}
+div{
+    color: black;
+    font-size: 25px;
+}
+p{
+    font-size: 15px;
+    color: grey;
+}
